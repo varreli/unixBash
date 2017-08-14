@@ -1,0 +1,2 @@
+use Alt + o to save any setting page in preferences.
+(If you cannot see the save button at lower right).

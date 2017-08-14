@@ -1,0 +1,4 @@
+# how to set up the prompt for mult-machine use or
+# general tweaks:
+
+https://www.ibm.com/developerworks/library/l-tip-prompt/

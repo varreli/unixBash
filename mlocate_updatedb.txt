@@ -1,0 +1,4 @@
+  $ sudo updatedb  -- as root
+  $ locate
+  $ whereis
+  $ find
