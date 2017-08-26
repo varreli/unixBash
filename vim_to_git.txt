@@ -1,0 +1,4 @@
+For git merges messages, do
+:wq
+
+It needs quit to accept the message.
