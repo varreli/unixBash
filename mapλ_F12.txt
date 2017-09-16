@@ -1,0 +1,9 @@
+$ xmodmap -e 'keycode 96 = dead_greek Meta_R F12 Meta_R'
+
+## to undo above command:
+$ setxkbmap
+
+## lists all keycodes:
+$ xmodmap -pke
+
+
