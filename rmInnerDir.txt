@@ -1,0 +1,6 @@
+cp -vaR dir/. . && rmdir foo/
+
+-- move folder content up one level:
+
+haskell/haskell_bu  =>
+haskell_bu
