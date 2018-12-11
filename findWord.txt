@@ -1,0 +1,4 @@
+To find all instances of a word in an entire 
+directory:
+
+$ find . -type f -exec grep <word> /dev/null {} +
